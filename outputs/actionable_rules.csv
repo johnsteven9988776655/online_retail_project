@@ -1,0 +1,4 @@
+rule_number,antecedents,consequents,confidence,lift,business_implication,action,strength
+1,{'spaceboy lunch box'},{'dolly girl lunch box'},0.5844748858447489,19.759404770182883,Customers who buy {'spaceboy lunch box'} are 58.4% likely to also buy {'dolly girl lunch box'},Create targeted cross-sell campaign or product bundle,Strong
+2,{'dolly girl lunch box'},{'spaceboy lunch box'},0.649746192893401,19.75940477018288,Customers who buy {'dolly girl lunch box'} are 65.0% likely to also buy {'spaceboy lunch box'},Create targeted cross-sell campaign or product bundle,Strong
+3,{'round snack boxes set of 4 fruits'},{'round snack boxes set of4 woodland'},0.5546875,17.67568779904306,Customers who buy {'round snack boxes set of 4 fruits'} are 55.5% likely to also buy {'round snack boxes set of4 woodland'},Create targeted cross-sell campaign or product bundle,Strong
